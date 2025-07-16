@@ -1,0 +1,673 @@
+date,category,subcategory,partner,amount (₪),description
+2024-01,Income,Salary,Partner1,32800.0,Salary January
+2024-01,Income,Salary,Partner2,12000.0,Salary January
+2024-01,Income,Others (one time income),Both,1000.0,Refund
+2024-01,Outcome,Rent,Both,-6800.0,Monthly rent
+2024-01,Outcome,12 months avg credit card,Both,-1600.0,Average CC payment
+2024-01,House Bills,Supermarket,Both,-1400.0,Grocery shopping
+2024-01,,Hobbies & sports,Both,-200.0,Gym
+2024-01,,Mobile phone,Both,-120.0,Mobile bills
+2024-01,House Bills,Eating out / ordering,Both,-800.0,Restaurants & delivery
+2024-01,House Bills,Cleaner,Both,-320.0,Monthly cleaning service
+2024-01,House Bills,Therapy,Partner1,-600.0,Therapy session
+2024-01,House Bills,Therapy,Partner2,-560.0,Therapy session
+2024-01,House Bills,Education,Partner1,-400.0,Hebrew course
+2024-01,House Bills,Education,Partner2,-400.0,Hebrew course
+2024-01,House Bills,Commute,Both,-480.0,Transport
+2024-01,House Bills,Other expenses,Both,-360.0,Miscellaneous
+2024-01,House Bills,Water,Both,-120.0,Monthly water bill
+2024-01,House Bills,Electricity,Both,-240.0,Monthly electricity bill
+2024-01,House Bills,Arnona / house fees,Both,-400.0,Municipal tax
+2024-01,House Bills,Building Fee,Both,-160.0,Maintenance fee
+2024-01,House Bills,Internet,Both,-140.0,Monthly internet bill
+2024-01,House Bills,TV,Both,-100.0,Cable or streaming
+2024-01,House Bills,Netflix,Both,-40.0,Subscription
+2024-01,House Bills,Spotify,Both,-40.0,Subscription
+2024-01,House Bills,Google One,Both,-8.0,Cloud storage
+2024-01,Eating out,Going out / evenings & weekends,Both,-600.0,Weekend restaurants
+2024-01,Commute,Couple car rental,Both,-400.0,Weekend trip rental
+2024-01,Put aside,Savings,Both,2000.0,Money saved this month
+2024-02,Income,Salary,Partner1,12800.0,Salary February
+2024-02,Income,Salary,Partner2,12000.0,Salary February
+2024-02,Income,Others (one time income),Both,1000.0,Refund
+2024-02,Outcome,Rent,Both,-4800.0,Monthly rent
+2024-02,Outcome,12 months avg credit card,Both,-1600.0,Average CC payment
+2024-02,House Bills,Supermarket,Both,-1400.0,Grocery shopping
+2024-02,,Hobbies & sports,Both,-200.0,Gym
+2024-02,,Mobile phone,Both,-120.0,Mobile bills
+2024-02,House Bills,Eating out / ordering,Both,-800.0,Restaurants & delivery
+2024-02,House Bills,Cleaner,Both,-320.0,Monthly cleaning service
+2024-02,House Bills,Therapy,Partner1,-600.0,Therapy session
+2024-02,House Bills,Therapy,Partner2,-560.0,Therapy session
+2024-02,House Bills,Education,Partner1,-400.0,Hebrew course
+2024-02,House Bills,Education,Partner2,-400.0,Hebrew course
+2024-02,House Bills,Commute,Both,-480.0,Transport
+2024-02,House Bills,Other expenses,Both,-360.0,Miscellaneous
+2024-02,House Bills,Water,Both,-120.0,Monthly water bill
+2024-02,House Bills,Electricity,Both,-240.0,Monthly electricity bill
+2024-02,House Bills,Arnona / house fees,Both,-400.0,Municipal tax
+2024-02,House Bills,Building Fee,Both,-160.0,Maintenance fee
+2024-02,House Bills,Internet,Both,-140.0,Monthly internet bill
+2024-02,House Bills,TV,Both,-100.0,Cable or streaming
+2024-02,House Bills,Netflix,Both,-40.0,Subscription
+2024-02,House Bills,Spotify,Both,-40.0,Subscription
+2024-02,House Bills,Google One,Both,-8.0,Cloud storage
+2024-02,Eating out,Going out / evenings & weekends,Both,-600.0,Weekend restaurants
+2024-02,Commute,Couple car rental,Both,-400.0,Weekend trip rental
+2024-02,Put aside,Savings,Both,2000.0,Money saved this month
+2024-03,Income,Salary,Partner1,12800.0,Salary March
+2024-03,Income,Salary,Partner2,15000.0,Salary March
+2024-03,Income,Others (one time income),Both,1000.0,Refund
+2024-03,Outcome,Rent,Both,-4800.0,Monthly rent
+2024-03,Outcome,12 months avg credit card,Both,-1600.0,Average CC payment
+2024-03,House Bills,Supermarket,Both,-1400.0,Grocery shopping
+2024-03,,Hobbies & sports,Both,-2000.0,Gym
+2024-03,,Mobile phone,Both,-120.0,Mobile bills
+2024-03,House Bills,Eating out / ordering,Both,-800.0,Restaurants & delivery
+2024-03,House Bills,Cleaner,Both,-320.0,Monthly cleaning service
+2024-03,House Bills,Therapy,Partner1,-600.0,Therapy session
+2024-03,House Bills,Therapy,Partner2,-560.0,Therapy session
+2024-03,House Bills,Education,Partner1,-400.0,Hebrew course
+2024-03,House Bills,Education,Partner2,-400.0,Hebrew course
+2024-03,House Bills,Commute,Both,-480.0,Transport
+2024-03,House Bills,Other expenses,Both,-360.0,Miscellaneous
+2024-03,House Bills,Water,Both,-120.0,Monthly water bill
+2024-03,House Bills,Electricity,Both,-240.0,Monthly electricity bill
+2024-03,House Bills,Arnona / house fees,Both,-400.0,Municipal tax
+2024-03,House Bills,Building Fee,Both,-160.0,Maintenance fee
+2024-03,House Bills,Internet,Both,-140.0,Monthly internet bill
+2024-03,House Bills,TV,Both,-100.0,Cable or streaming
+2024-03,House Bills,Netflix,Both,-40.0,Subscription
+2024-03,House Bills,Spotify,Both,-40.0,Subscription
+2024-03,House Bills,Google One,Both,-8.0,Cloud storage
+2024-03,Eating out,Going out / evenings & weekends,Both,-600.0,Weekend restaurants
+2024-03,Commute,Couple car rental,Both,-400.0,Weekend trip rental
+2024-03,Put aside,Savings,Both,2000.0,Money saved this month
+2024-04,Income,Salary,Partner1,12800.0,Salary April
+2024-04,Income,Salary,Partner2,12000.0,Salary April
+2024-04,Income,Others (one time income),Both,1000.0,Refund
+2024-04,Outcome,Rent,Both,-4800.0,Monthly rent
+2024-04,Outcome,12 months avg credit card,Both,-1600.0,Average CC payment
+2024-04,House Bills,Supermarket,Both,-1400.0,Grocery shopping
+2024-04,,Hobbies & sports,Both,-200.0,Gym
+2024-04,,Mobile phone,Both,-120.0,Mobile bills
+2024-04,House Bills,Eating out / ordering,Both,-800.0,Restaurants & delivery
+2024-04,House Bills,Cleaner,Both,-320.0,Monthly cleaning service
+2024-04,House Bills,Therapy,Partner1,-600.0,Therapy session
+2024-04,House Bills,Therapy,Partner2,-560.0,Therapy session
+2024-04,House Bills,Education,Partner1,-400.0,Hebrew course
+2024-04,House Bills,Education,Partner2,-400.0,Hebrew course
+2024-04,House Bills,Commute,Both,-480.0,Transport
+2024-04,House Bills,Other expenses,Both,-360.0,Miscellaneous
+2024-04,House Bills,Water,Both,-120.0,Monthly water bill
+2024-04,House Bills,Electricity,Both,-240.0,Monthly electricity bill
+2024-04,House Bills,Arnona / house fees,Both,-400.0,Municipal tax
+2024-04,House Bills,Building Fee,Both,-160.0,Maintenance fee
+2024-04,House Bills,Internet,Both,-140.0,Monthly internet bill
+2024-04,House Bills,TV,Both,-100.0,Cable or streaming
+2024-04,House Bills,Netflix,Both,-40.0,Subscription
+2024-04,House Bills,Spotify,Both,-40.0,Subscription
+2024-04,House Bills,Google One,Both,-8.0,Cloud storage
+2024-04,Eating out,Going out / evenings & weekends,Both,-600.0,Weekend restaurants
+2024-04,Commute,Couple car rental,Both,-400.0,Weekend trip rental
+2024-04,Put aside,Savings,Both,2000.0,Money saved this month
+2024-05,Income,Salary,Partner1,12800.0,Salary May
+2024-05,Income,Salary,Partner2,12000.0,Salary May
+2024-05,Income,Others (one time income),Both,1000.0,Refund
+2024-05,Outcome,Rent,Both,-4800.0,Monthly rent
+2024-05,Outcome,12 months avg credit card,Both,-1600.0,Average CC payment
+2024-05,House Bills,Supermarket,Both,-1400.0,Grocery shopping
+2024-05,,Hobbies & sports,Both,-200.0,Gym
+2024-05,,Mobile phone,Both,-120.0,Mobile bills
+2024-05,House Bills,Eating out / ordering,Both,-800.0,Restaurants & delivery
+2024-05,House Bills,Cleaner,Both,-320.0,Monthly cleaning service
+2024-05,House Bills,Therapy,Partner1,-600.0,Therapy session
+2024-05,House Bills,Therapy,Partner2,-560.0,Therapy session
+2024-05,House Bills,Education,Partner1,-400.0,Hebrew course
+2024-05,House Bills,Education,Partner2,-400.0,Hebrew course
+2024-05,House Bills,Commute,Both,-480.0,Transport
+2024-05,House Bills,Other expenses,Both,-360.0,Miscellaneous
+2024-05,House Bills,Water,Both,-120.0,Monthly water bill
+2024-05,House Bills,Electricity,Both,-240.0,Monthly electricity bill
+2024-05,House Bills,Arnona / house fees,Both,-400.0,Municipal tax
+2024-05,House Bills,Building Fee,Both,-160.0,Maintenance fee
+2024-05,House Bills,Internet,Both,-140.0,Monthly internet bill
+2024-05,House Bills,TV,Both,-100.0,Cable or streaming
+2024-05,House Bills,Netflix,Both,-40.0,Subscription
+2024-05,House Bills,Spotify,Both,-40.0,Subscription
+2024-05,House Bills,Google One,Both,-8.0,Cloud storage
+2024-05,Eating out,Going out / evenings & weekends,Both,-600.0,Weekend restaurants
+2024-05,Commute,Couple car rental,Both,-400.0,Weekend trip rental
+2024-05,Put aside,Savings,Both,2000.0,Money saved this month
+2024-06,Income,Salary,Partner1,12800.0,Salary June
+2024-06,Income,Salary,Partner2,12000.0,Salary June
+2024-06,Income,Others (one time income),Both,1000.0,Refund
+2024-06,Outcome,Rent,Both,-4800.0,Monthly rent
+2024-06,Outcome,12 months avg credit card,Both,-1600.0,Average CC payment
+2024-06,House Bills,Supermarket,Both,-1400.0,Grocery shopping
+2024-06,,Hobbies & sports,Both,-200.0,Gym
+2024-06,,Mobile phone,Both,-120.0,Mobile bills
+2024-06,House Bills,Eating out / ordering,Both,-800.0,Restaurants & delivery
+2024-06,House Bills,Cleaner,Both,-320.0,Monthly cleaning service
+2024-06,House Bills,Therapy,Partner1,-600.0,Therapy session
+2024-06,House Bills,Therapy,Partner2,-560.0,Therapy session
+2024-06,House Bills,Education,Partner1,-400.0,Hebrew course
+2024-06,House Bills,Education,Partner2,-400.0,Hebrew course
+2024-06,House Bills,Commute,Both,-480.0,Transport
+2024-06,House Bills,Other expenses,Both,-360.0,Miscellaneous
+2024-06,House Bills,Water,Both,-120.0,Monthly water bill
+2024-06,House Bills,Electricity,Both,-240.0,Monthly electricity bill
+2024-06,House Bills,Arnona / house fees,Both,-400.0,Municipal tax
+2024-06,House Bills,Building Fee,Both,-160.0,Maintenance fee
+2024-06,House Bills,Internet,Both,-140.0,Monthly internet bill
+2024-06,House Bills,TV,Both,-100.0,Cable or streaming
+2024-06,House Bills,Netflix,Both,-40.0,Subscription
+2024-06,House Bills,Spotify,Both,-40.0,Subscription
+2024-06,House Bills,Google One,Both,-8.0,Cloud storage
+2024-06,Eating out,Going out / evenings & weekends,Both,-600.0,Weekend restaurants
+2024-06,Commute,Couple car rental,Both,-400.0,Weekend trip rental
+2024-06,Put aside,Savings,Both,2000.0,Money saved this month
+2024-07,Income,Salary,Partner1,12800.0,Salary July
+2024-07,Income,Salary,Partner2,14000.0,Salary July
+2024-07,Income,Others (one time income),Both,1000.0,Refund
+2024-07,Outcome,Rent,Both,-4800.0,Monthly rent
+2024-07,Outcome,12 months avg credit card,Both,-1600.0,Average CC payment
+2024-07,House Bills,Supermarket,Both,-1400.0,Grocery shopping
+2024-07,,Hobbies & sports,Both,-200.0,Gym
+2024-07,,Mobile phone,Both,-120.0,Mobile bills
+2024-07,House Bills,Eating out / ordering,Both,-800.0,Restaurants & delivery
+2024-07,House Bills,Cleaner,Both,-320.0,Monthly cleaning service
+2024-07,House Bills,Therapy,Partner1,-600.0,Therapy session
+2024-07,House Bills,Therapy,Partner2,-250.0,Therapy session
+2024-07,House Bills,Education,Partner1,-400.0,Hebrew course
+2024-07,House Bills,Education,Partner2,-400.0,Hebrew course
+2024-07,House Bills,Commute,Both,-450.0,Transport
+2024-07,House Bills,Other expenses,Both,-360.0,Miscellaneous
+2024-07,House Bills,Water,Both,-190.0,Monthly water bill
+2024-07,House Bills,Electricity,Both,-240.0,Monthly electricity bill
+2024-07,House Bills,Arnona / house fees,Both,-400.0,Municipal tax
+2024-07,House Bills,Building Fee,Both,-160.0,Maintenance fee
+2024-07,House Bills,Internet,Both,-140.0,Monthly internet bill
+2024-07,House Bills,TV,Both,-100.0,Cable or streaming
+2024-07,House Bills,Netflix,Both,-60.0,Subscription
+2024-07,House Bills,Spotify,Both,-40.0,Subscription
+2024-07,House Bills,Google One,Both,-8.0,Cloud storage
+2024-07,Eating out,Going out / evenings & weekends,Both,-600.0,Weekend restaurants
+2024-07,Commute,Couple car rental,Both,-400.0,Weekend trip rental
+2024-07,Put aside,Savings,Both,2000.0,Money saved this month
+2024-08,Income,Salary,Partner1,12800.0,Salary August
+2024-08,Income,Salary,Partner2,12000.0,Salary August
+2024-08,Income,Others (one time income),Both,1000.0,Refund
+2024-08,Outcome,Rent,Both,-4800.0,Monthly rent
+2024-08,Outcome,12 months avg credit card,Both,-1600.0,Average CC payment
+2024-08,House Bills,Supermarket,Both,-1400.0,Grocery shopping
+2024-08,,Hobbies & sports,Both,-200.0,Gym
+2024-08,,Mobile phone,Both,-120.0,Mobile bills
+2024-08,House Bills,Eating out / ordering,Both,-800.0,Restaurants & delivery
+2024-08,House Bills,Cleaner,Both,-320.0,Monthly cleaning service
+2024-08,House Bills,Therapy,Partner1,-600.0,Therapy session
+2024-08,House Bills,Therapy,Partner2,-560.0,Therapy session
+2024-08,House Bills,Education,Partner1,-400.0,Hebrew course
+2024-08,House Bills,Education,Partner2,-400.0,Hebrew course
+2024-08,House Bills,Commute,Both,-480.0,Transport
+2024-08,House Bills,Other expenses,Both,-360.0,Miscellaneous
+2024-08,House Bills,Water,Both,-120.0,Monthly water bill
+2024-08,House Bills,Electricity,Both,-240.0,Monthly electricity bill
+2024-08,House Bills,Arnona / house fees,Both,-400.0,Municipal tax
+2024-08,House Bills,Building Fee,Both,-160.0,Maintenance fee
+2024-08,House Bills,Internet,Both,-140.0,Monthly internet bill
+2024-08,House Bills,TV,Both,-100.0,Cable or streaming
+2024-08,House Bills,Netflix,Both,-40.0,Subscription
+2024-08,House Bills,Spotify,Both,-40.0,Subscription
+2024-08,House Bills,Google One,Both,-8.0,Cloud storage
+2024-08,Eating out,Going out / evenings & weekends,Both,-600.0,Weekend restaurants
+2024-08,Commute,Couple car rental,Both,-400.0,Weekend trip rental
+2024-08,Put aside,Savings,Both,2000.0,Money saved this month
+2024-09,Income,Salary,Partner1,12800.0,Salary September
+2024-09,Income,Salary,Partner2,12000.0,Salary September
+2024-09,Income,Others (one time income),Both,1000.0,Refund
+2024-09,Outcome,Rent,Both,-4800.0,Monthly rent
+2024-09,Outcome,12 months avg credit card,Both,-1600.0,Average CC payment
+2024-09,House Bills,Supermarket,Both,-1400.0,Grocery shopping
+2024-09,,Hobbies & sports,Both,-200.0,Gym
+2024-09,,Mobile phone,Both,-120.0,Mobile bills
+2024-09,House Bills,Eating out / ordering,Both,-800.0,Restaurants & delivery
+2024-09,House Bills,Cleaner,Both,-320.0,Monthly cleaning service
+2024-09,House Bills,Therapy,Partner1,-600.0,Therapy session
+2024-09,House Bills,Therapy,Partner2,-560.0,Therapy session
+2024-09,House Bills,Education,Partner1,-400.0,Hebrew course
+2024-09,House Bills,Education,Partner2,-400.0,Hebrew course
+2024-09,House Bills,Commute,Both,-480.0,Transport
+2024-09,House Bills,Other expenses,Both,-360.0,Miscellaneous
+2024-09,House Bills,Water,Both,-120.0,Monthly water bill
+2024-09,House Bills,Electricity,Both,-240.0,Monthly electricity bill
+2024-09,House Bills,Arnona / house fees,Both,-400.0,Municipal tax
+2024-09,House Bills,Building Fee,Both,-160.0,Maintenance fee
+2024-09,House Bills,Internet,Both,-140.0,Monthly internet bill
+2024-09,House Bills,TV,Both,-100.0,Cable or streaming
+2024-09,House Bills,Netflix,Both,-40.0,Subscription
+2024-09,House Bills,Spotify,Both,-40.0,Subscription
+2024-09,House Bills,Google One,Both,-8.0,Cloud storage
+2024-09,Eating out,Going out / evenings & weekends,Both,-600.0,Weekend restaurants
+2024-09,Commute,Couple car rental,Both,-400.0,Weekend trip rental
+2024-09,Put aside,Savings,Both,2000.0,Money saved this month
+2024-10,Income,Salary,Partner1,12800.0,Salary October
+2024-10,Income,Salary,Partner2,12000.0,Salary October
+2024-10,Income,Others (one time income),Both,1000.0,Refund
+2024-10,Outcome,Rent,Both,-4800.0,Monthly rent
+2024-10,Outcome,12 months avg credit card,Both,-1600.0,Average CC payment
+2024-10,House Bills,Supermarket,Both,-1400.0,Grocery shopping
+2024-10,,Hobbies & sports,Both,-200.0,Gym
+2024-10,,Mobile phone,Both,-120.0,Mobile bills
+2024-10,House Bills,Eating out / ordering,Both,-800.0,Restaurants & delivery
+2024-10,House Bills,Cleaner,Both,-320.0,Monthly cleaning service
+2024-10,House Bills,Therapy,Partner1,-600.0,Therapy session
+2024-10,House Bills,Therapy,Partner2,-560.0,Therapy session
+2024-10,House Bills,Education,Partner1,-400.0,Hebrew course
+2024-10,House Bills,Education,Partner2,-400.0,Hebrew course
+2024-10,House Bills,Commute,Both,-480.0,Transport
+2024-10,House Bills,Other expenses,Both,-360.0,Miscellaneous
+2024-10,House Bills,Water,Both,-120.0,Monthly water bill
+2024-10,House Bills,Electricity,Both,-240.0,Monthly electricity bill
+2024-10,House Bills,Arnona / house fees,Both,-400.0,Municipal tax
+2024-10,House Bills,Building Fee,Both,-160.0,Maintenance fee
+2024-10,House Bills,Internet,Both,-140.0,Monthly internet bill
+2024-10,House Bills,TV,Both,-100.0,Cable or streaming
+2024-10,House Bills,Netflix,Both,-40.0,Subscription
+2024-10,House Bills,Spotify,Both,-40.0,Subscription
+2024-10,House Bills,Google One,Both,-8.0,Cloud storage
+2024-10,Eating out,Going out / evenings & weekends,Both,-600.0,Weekend restaurants
+2024-10,Commute,Couple car rental,Both,-400.0,Weekend trip rental
+2024-10,Put aside,Savings,Both,2000.0,Money saved this month
+2024-11,Income,Salary,Partner1,12800.0,Salary November
+2024-11,Income,Salary,Partner2,12000.0,Salary November
+2024-11,Income,Others (one time income),Both,1000.0,Refund
+2024-11,Outcome,Rent,Both,-4800.0,Monthly rent
+2024-11,Outcome,12 months avg credit card,Both,-1600.0,Average CC payment
+2024-11,House Bills,Supermarket,Both,-1400.0,Grocery shopping
+2024-11,,Hobbies & sports,Both,-200.0,Gym
+2024-11,,Mobile phone,Both,-120.0,Mobile bills
+2024-11,House Bills,Eating out / ordering,Both,-800.0,Restaurants & delivery
+2024-11,House Bills,Cleaner,Both,-320.0,Monthly cleaning service
+2024-11,House Bills,Therapy,Partner1,-600.0,Therapy session
+2024-11,House Bills,Therapy,Partner2,-560.0,Therapy session
+2024-11,House Bills,Education,Partner1,-400.0,Hebrew course
+2024-11,House Bills,Education,Partner2,-400.0,Hebrew course
+2024-11,House Bills,Commute,Both,-480.0,Transport
+2024-11,House Bills,Other expenses,Both,-360.0,Miscellaneous
+2024-11,House Bills,Water,Both,-120.0,Monthly water bill
+2024-11,House Bills,Electricity,Both,-240.0,Monthly electricity bill
+2024-11,House Bills,Arnona / house fees,Both,-400.0,Municipal tax
+2024-11,House Bills,Building Fee,Both,-160.0,Maintenance fee
+2024-11,House Bills,Internet,Both,-140.0,Monthly internet bill
+2024-11,House Bills,TV,Both,-100.0,Cable or streaming
+2024-11,House Bills,Netflix,Both,-40.0,Subscription
+2024-11,House Bills,Spotify,Both,-40.0,Subscription
+2024-11,House Bills,Google One,Both,-8.0,Cloud storage
+2024-11,Eating out,Going out / evenings & weekends,Both,-600.0,Weekend restaurants
+2024-11,Commute,Couple car rental,Both,-400.0,Weekend trip rental
+2024-11,Put aside,Savings,Both,2000.0,Money saved this month
+2024-12,Income,Salary,Partner1,12800.0,Salary December
+2024-12,Income,Salary,Partner2,12000.0,Salary December
+2024-12,Income,Others (one time income),Both,1000.0,Refund
+2024-12,Outcome,Rent,Both,-4800.0,Monthly rent
+2024-12,Outcome,12 months avg credit card,Both,-1600.0,Average CC payment
+2024-12,House Bills,Supermarket,Both,-1400.0,Grocery shopping
+2024-12,,Hobbies & sports,Both,-200.0,Gym
+2024-12,,Mobile phone,Both,-120.0,Mobile bills
+2024-12,House Bills,Eating out / ordering,Both,-800.0,Restaurants & delivery
+2024-12,House Bills,Cleaner,Both,-320.0,Monthly cleaning service
+2024-12,House Bills,Therapy,Partner1,-600.0,Therapy session
+2024-12,House Bills,Therapy,Partner2,-560.0,Therapy session
+2024-12,House Bills,Education,Partner1,-400.0,Hebrew course
+2024-12,House Bills,Education,Partner2,-600.0,Hebrew course
+2024-12,House Bills,Commute,Both,-480.0,Transport
+2024-12,House Bills,Other expenses,Both,-360.0,Miscellaneous
+2024-12,House Bills,Water,Both,-120.0,Monthly water bill
+2024-12,House Bills,Electricity,Both,-240.0,Monthly electricity bill
+2024-12,House Bills,Arnona / house fees,Both,-400.0,Municipal tax
+2024-12,House Bills,Building Fee,Both,-160.0,Maintenance fee
+2024-12,House Bills,Internet,Both,-140.0,Monthly internet bill
+2024-12,House Bills,TV,Both,-100.0,Cable or streaming
+2024-12,House Bills,Netflix,Both,-40.0,Subscription
+2024-12,House Bills,Spotify,Both,-40.0,Subscription
+2024-12,House Bills,Google One,Both,-8.0,Cloud storage
+2024-12,Eating out,Going out / evenings & weekends,Both,-600.0,Weekend restaurants
+2024-12,Commute,Couple car rental,Both,-400.0,Weekend trip rental
+2024-12,Put aside,Savings,Both,2000.0,Money saved this month
+2025-01,Income,Salary,Partner1,12800.0,Salary January
+2025-01,Income,Salary,Partner2,12000.0,Salary January
+2025-01,Income,Others (one time income),Both,1000.0,Refund
+2025-01,Outcome,Rent,Both,-4800.0,Monthly rent
+2025-01,Outcome,12 months avg credit card,Both,-1600.0,Average CC payment
+2025-01,House Bills,Supermarket,Both,-1400.0,Grocery shopping
+2025-01,,Hobbies & sports,Both,-200.0,Gym
+2025-01,,Mobile phone,Both,-120.0,Mobile bills
+2025-01,House Bills,Eating out / ordering,Both,-800.0,Restaurants & delivery
+2025-01,House Bills,Cleaner,Both,-320.0,Monthly cleaning service
+2025-01,House Bills,Therapy,Partner1,-600.0,Therapy session
+2025-01,House Bills,Therapy,Partner2,-560.0,Therapy session
+2025-01,House Bills,Education,Partner1,-400.0,Hebrew course
+2025-01,House Bills,Education,Partner2,-400.0,Hebrew course
+2025-01,House Bills,Commute,Both,-480.0,Transport
+2025-01,House Bills,Other expenses,Both,-360.0,Miscellaneous
+2025-01,House Bills,Water,Both,-120.0,Monthly water bill
+2025-01,House Bills,Electricity,Both,-240.0,Monthly electricity bill
+2025-01,House Bills,Arnona / house fees,Both,-400.0,Municipal tax
+2025-01,House Bills,Building Fee,Both,-160.0,Maintenance fee
+2025-01,House Bills,Internet,Both,-140.0,Monthly internet bill
+2025-01,House Bills,TV,Both,-100.0,Cable or streaming
+2025-01,House Bills,Netflix,Both,-40.0,Subscription
+2025-01,House Bills,Spotify,Both,-40.0,Subscription
+2025-01,House Bills,Google One,Both,-8.0,Cloud storage
+2025-01,Eating out,Going out / evenings & weekends,Both,-600.0,Weekend restaurants
+2025-01,Commute,Couple car rental,Both,-400.0,Weekend trip rental
+2025-01,Put aside,Savings,Both,2000.0,Money saved this month
+2025-02,Income,Salary,Partner1,12800.0,Salary February
+2025-02,Income,Salary,Partner2,12000.0,Salary February
+2025-02,Income,Others (one time income),Both,1000.0,Refund
+2025-02,Outcome,Rent,Both,-4800.0,Monthly rent
+2025-02,Outcome,12 months avg credit card,Both,-1600.0,Average CC payment
+2025-02,House Bills,Supermarket,Both,-1400.0,Grocery shopping
+2025-02,,Hobbies & sports,Both,-200.0,Gym
+2025-02,,Mobile phone,Both,-120.0,Mobile bills
+2025-02,House Bills,Eating out / ordering,Both,-800.0,Restaurants & delivery
+2025-02,House Bills,Cleaner,Both,-320.0,Monthly cleaning service
+2025-02,House Bills,Therapy,Partner1,-600.0,Therapy session
+2025-02,House Bills,Therapy,Partner2,-560.0,Therapy session
+2025-02,House Bills,Education,Partner1,-400.0,Hebrew course
+2025-02,House Bills,Education,Partner2,-400.0,Hebrew course
+2025-02,House Bills,Commute,Both,-480.0,Transport
+2025-02,House Bills,Other expenses,Both,-360.0,Miscellaneous
+2025-02,House Bills,Water,Both,-120.0,Monthly water bill
+2025-02,House Bills,Electricity,Both,-240.0,Monthly electricity bill
+2025-02,House Bills,Arnona / house fees,Both,-400.0,Municipal tax
+2025-02,House Bills,Building Fee,Both,-160.0,Maintenance fee
+2025-02,House Bills,Internet,Both,-140.0,Monthly internet bill
+2025-02,House Bills,TV,Both,-100.0,Cable or streaming
+2025-02,House Bills,Netflix,Both,-40.0,Subscription
+2025-02,House Bills,Spotify,Both,-40.0,Subscription
+2025-02,House Bills,Google One,Both,-8.0,Cloud storage
+2025-02,Eating out,Going out / evenings & weekends,Both,-600.0,Weekend restaurants
+2025-02,Commute,Couple car rental,Both,-400.0,Weekend trip rental
+2025-02,Put aside,Savings,Both,2000.0,Money saved this month
+2025-03,Income,Salary,Partner1,12800.0,Salary March
+2025-03,Income,Salary,Partner2,12000.0,Salary March
+2025-03,Income,Others (one time income),Both,1000.0,Refund
+2025-03,Outcome,Rent,Both,-4800.0,Monthly rent
+2025-03,Outcome,12 months avg credit card,Both,-1600.0,Average CC payment
+2025-03,House Bills,Supermarket,Both,-1400.0,Grocery shopping
+2025-03,,Hobbies & sports,Both,-200.0,Gym
+2025-03,,Mobile phone,Both,-120.0,Mobile bills
+2025-03,House Bills,Eating out / ordering,Both,-800.0,Restaurants & delivery
+2025-03,House Bills,Cleaner,Both,-320.0,Monthly cleaning service
+2025-03,House Bills,Therapy,Partner1,-600.0,Therapy session
+2025-03,House Bills,Therapy,Partner2,-560.0,Therapy session
+2025-03,House Bills,Education,Partner1,-400.0,Hebrew course
+2025-03,House Bills,Education,Partner2,-400.0,Hebrew course
+2025-03,House Bills,Commute,Both,-480.0,Transport
+2025-03,House Bills,Other expenses,Both,-360.0,Miscellaneous
+2025-03,House Bills,Water,Both,-120.0,Monthly water bill
+2025-03,House Bills,Electricity,Both,-240.0,Monthly electricity bill
+2025-03,House Bills,Arnona / house fees,Both,-400.0,Municipal tax
+2025-03,House Bills,Building Fee,Both,-160.0,Maintenance fee
+2025-03,House Bills,Internet,Both,-140.0,Monthly internet bill
+2025-03,House Bills,TV,Both,-100.0,Cable or streaming
+2025-03,House Bills,Netflix,Both,-40.0,Subscription
+2025-03,House Bills,Spotify,Both,-40.0,Subscription
+2025-03,House Bills,Google One,Both,-8.0,Cloud storage
+2025-03,Eating out,Going out / evenings & weekends,Both,-600.0,Weekend restaurants
+2025-03,Commute,Couple car rental,Both,-400.0,Weekend trip rental
+2025-03,Put aside,Savings,Both,2000.0,Money saved this month
+2025-04,Income,Salary,Partner1,12800.0,Salary April
+2025-04,Income,Salary,Partner2,12000.0,Salary April
+2025-04,Income,Others (one time income),Both,1000.0,Refund
+2025-04,Outcome,Rent,Both,-5800.0,Monthly rent
+2025-04,Outcome,12 months avg credit card,Both,-1600.0,Average CC payment
+2025-04,House Bills,Supermarket,Both,-1400.0,Grocery shopping
+2025-04,,Hobbies & sports,Both,-200.0,Gym
+2025-04,,Mobile phone,Both,-120.0,Mobile bills
+2025-04,House Bills,Eating out / ordering,Both,-800.0,Restaurants & delivery
+2025-04,House Bills,Cleaner,Both,-320.0,Monthly cleaning service
+2025-04,House Bills,Therapy,Partner1,-600.0,Therapy session
+2025-04,House Bills,Therapy,Partner2,-560.0,Therapy session
+2025-04,House Bills,Education,Partner1,-400.0,Hebrew course
+2025-04,House Bills,Education,Partner2,-400.0,Hebrew course
+2025-04,House Bills,Commute,Both,-480.0,Transport
+2025-04,House Bills,Other expenses,Both,-360.0,Miscellaneous
+2025-04,House Bills,Water,Both,-120.0,Monthly water bill
+2025-04,House Bills,Electricity,Both,-240.0,Monthly electricity bill
+2025-04,House Bills,Arnona / house fees,Both,-400.0,Municipal tax
+2025-04,House Bills,Building Fee,Both,-160.0,Maintenance fee
+2025-04,House Bills,Internet,Both,-140.0,Monthly internet bill
+2025-04,House Bills,TV,Both,-100.0,Cable or streaming
+2025-04,House Bills,Netflix,Both,-40.0,Subscription
+2025-04,House Bills,Spotify,Both,-40.0,Subscription
+2025-04,House Bills,Google One,Both,-8.0,Cloud storage
+2025-04,Eating out,Going out / evenings & weekends,Both,-600.0,Weekend restaurants
+2025-04,Commute,Couple car rental,Both,-400.0,Weekend trip rental
+2025-04,Put aside,Savings,Both,2000.0,Money saved this month
+2025-05,Income,Salary,Partner1,12800.0,Salary May
+2025-05,Income,Salary,Partner2,12000.0,Salary May
+2025-05,Income,Others (one time income),Both,1000.0,Refund
+2025-05,Outcome,Rent,Both,-4800.0,Monthly rent
+2025-05,Outcome,12 months avg credit card,Both,-1600.0,Average CC payment
+2025-05,House Bills,Supermarket,Both,-1400.0,Grocery shopping
+2025-05,,Hobbies & sports,Both,-200.0,Gym
+2025-05,,Mobile phone,Both,-120.0,Mobile bills
+2025-05,House Bills,Eating out / ordering,Both,-800.0,Restaurants & delivery
+2025-05,House Bills,Cleaner,Both,-320.0,Monthly cleaning service
+2025-05,House Bills,Therapy,Partner1,-600.0,Therapy session
+2025-05,House Bills,Therapy,Partner2,-560.0,Therapy session
+2025-05,House Bills,Education,Partner1,-400.0,Hebrew course
+2025-05,House Bills,Education,Partner2,-400.0,Hebrew course
+2025-05,House Bills,Commute,Both,-480.0,Transport
+2025-05,House Bills,Other expenses,Both,-360.0,Miscellaneous
+2025-05,House Bills,Water,Both,-120.0,Monthly water bill
+2025-05,House Bills,Electricity,Both,-240.0,Monthly electricity bill
+2025-05,House Bills,Arnona / house fees,Both,-400.0,Municipal tax
+2025-05,House Bills,Building Fee,Both,-160.0,Maintenance fee
+2025-05,House Bills,Internet,Both,-140.0,Monthly internet bill
+2025-05,House Bills,TV,Both,-100.0,Cable or streaming
+2025-05,House Bills,Netflix,Both,-40.0,Subscription
+2025-05,House Bills,Spotify,Both,-40.0,Subscription
+2025-05,House Bills,Google One,Both,-8.0,Cloud storage
+2025-05,Eating out,Going out / evenings & weekends,Both,-600.0,Weekend restaurants
+2025-05,Commute,Couple car rental,Both,-400.0,Weekend trip rental
+2025-05,Put aside,Savings,Both,2000.0,Money saved this month
+2025-06,Income,Salary,Partner1,12800.0,Salary June
+2025-06,Income,Salary,Partner2,12000.0,Salary June
+2025-06,Income,Others (one time income),Both,1000.0,Refund
+2025-06,Outcome,Rent,Both,-4800.0,Monthly rent
+2025-06,Outcome,12 months avg credit card,Both,-1600.0,Average CC payment
+2025-06,House Bills,Supermarket,Both,-1400.0,Grocery shopping
+2025-06,,Hobbies & sports,Both,-200.0,Gym
+2025-06,,Mobile phone,Both,-120.0,Mobile bills
+2025-06,House Bills,Eating out / ordering,Both,-800.0,Restaurants & delivery
+2025-06,House Bills,Cleaner,Both,-320.0,Monthly cleaning service
+2025-06,House Bills,Therapy,Partner1,-600.0,Therapy session
+2025-06,House Bills,Therapy,Partner2,-560.0,Therapy session
+2025-06,House Bills,Education,Partner1,-400.0,Hebrew course
+2025-06,House Bills,Education,Partner2,-400.0,Hebrew course
+2025-06,House Bills,Commute,Both,-480.0,Transport
+2025-06,House Bills,Other expenses,Both,-360.0,Miscellaneous
+2025-06,House Bills,Water,Both,-120.0,Monthly water bill
+2025-06,House Bills,Electricity,Both,-240.0,Monthly electricity bill
+2025-06,House Bills,Arnona / house fees,Both,-400.0,Municipal tax
+2025-06,House Bills,Building Fee,Both,-160.0,Maintenance fee
+2025-06,House Bills,Internet,Both,-140.0,Monthly internet bill
+2025-06,House Bills,TV,Both,-100.0,Cable or streaming
+2025-06,House Bills,Netflix,Both,-40.0,Subscription
+2025-06,House Bills,Spotify,Both,-40.0,Subscription
+2025-06,House Bills,Google One,Both,-8.0,Cloud storage
+2025-06,Eating out,Going out / evenings & weekends,Both,-600.0,Weekend restaurants
+2025-06,Commute,Couple car rental,Both,-400.0,Weekend trip rental
+2025-06,Put aside,Savings,Both,2000.0,Money saved this month
+2025-07,Income,Salary,Partner1,12800.0,Salary July
+2025-07,Income,Salary,Partner2,12000.0,Salary July
+2025-07,Income,Others (one time income),Both,1000.0,Refund
+2025-07,Outcome,Rent,Both,-4800.0,Monthly rent
+2025-07,Outcome,12 months avg credit card,Both,-1600.0,Average CC payment
+2025-07,House Bills,Supermarket,Both,-1400.0,Grocery shopping
+2025-07,,Hobbies & sports,Both,-200.0,Gym
+2025-07,,Mobile phone,Both,-120.0,Mobile bills
+2025-07,House Bills,Eating out / ordering,Both,-800.0,Restaurants & delivery
+2025-07,House Bills,Cleaner,Both,-320.0,Monthly cleaning service
+2025-07,House Bills,Therapy,Partner1,-600.0,Therapy session
+2025-07,House Bills,Therapy,Partner2,-560.0,Therapy session
+2025-07,House Bills,Education,Partner1,-400.0,Hebrew course
+2025-07,House Bills,Education,Partner2,-400.0,Hebrew course
+2025-07,House Bills,Commute,Both,-480.0,Transport
+2025-07,House Bills,Other expenses,Both,-360.0,Miscellaneous
+2025-07,House Bills,Water,Both,-120.0,Monthly water bill
+2025-07,House Bills,Electricity,Both,-240.0,Monthly electricity bill
+2025-07,House Bills,Arnona / house fees,Both,-400.0,Municipal tax
+2025-07,House Bills,Building Fee,Both,-160.0,Maintenance fee
+2025-07,House Bills,Internet,Both,-140.0,Monthly internet bill
+2025-07,House Bills,TV,Both,-100.0,Cable or streaming
+2025-07,House Bills,Netflix,Both,-40.0,Subscription
+2025-07,House Bills,Spotify,Both,-40.0,Subscription
+2025-07,House Bills,Google One,Both,-8.0,Cloud storage
+2025-07,Eating out,Going out / evenings & weekends,Both,-600.0,Weekend restaurants
+2025-07,Commute,Couple car rental,Both,-400.0,Weekend trip rental
+2025-07,Put aside,Savings,Both,2000.0,Money saved this month
+2025-08,Income,Salary,Partner1,12800.0,Salary August
+2025-08,Income,Salary,Partner2,12000.0,Salary August
+2025-08,Income,Others (one time income),Both,1000.0,Refund
+2025-08,Outcome,Rent,Both,-4800.0,Monthly rent
+2025-08,Outcome,12 months avg credit card,Both,-1600.0,Average CC payment
+2025-08,House Bills,Supermarket,Both,-1400.0,Grocery shopping
+2025-08,,Hobbies & sports,Both,-200.0,Gym
+2025-08,,Mobile phone,Both,-120.0,Mobile bills
+2025-08,House Bills,Eating out / ordering,Both,-800.0,Restaurants & delivery
+2025-08,House Bills,Cleaner,Both,-320.0,Monthly cleaning service
+2025-08,House Bills,Therapy,Partner1,-600.0,Therapy session
+2025-08,House Bills,Therapy,Partner2,-560.0,Therapy session
+2025-08,House Bills,Education,Partner1,-400.0,Hebrew course
+2025-08,House Bills,Education,Partner2,-400.0,Hebrew course
+2025-08,House Bills,Commute,Both,-480.0,Transport
+2025-08,House Bills,Other expenses,Both,-360.0,Miscellaneous
+2025-08,House Bills,Water,Both,-120.0,Monthly water bill
+2025-08,House Bills,Electricity,Both,-240.0,Monthly electricity bill
+2025-08,House Bills,Arnona / house fees,Both,-400.0,Municipal tax
+2025-08,House Bills,Building Fee,Both,-160.0,Maintenance fee
+2025-08,House Bills,Internet,Both,-140.0,Monthly internet bill
+2025-08,House Bills,TV,Both,-100.0,Cable or streaming
+2025-08,House Bills,Netflix,Both,-40.0,Subscription
+2025-08,House Bills,Spotify,Both,-40.0,Subscription
+2025-08,House Bills,Google One,Both,-8.0,Cloud storage
+2025-08,Eating out,Going out / evenings & weekends,Both,-600.0,Weekend restaurants
+2025-08,Commute,Couple car rental,Both,-400.0,Weekend trip rental
+2025-08,Put aside,Savings,Both,2000.0,Money saved this month
+2025-09,Income,Salary,Partner1,19800.0,Salary September
+2025-09,Income,Salary,Partner2,50000.0,Salary September
+2025-09,Income,Others (one time income),Both,1000.0,Refund
+2025-09,Outcome,Rent,Both,-4800.0,Monthly rent
+2025-09,Outcome,12 months avg credit card,Both,-1600.0,Average CC payment
+2025-09,House Bills,Supermarket,Both,-1400.0,Grocery shopping
+2025-09,,Hobbies & sports,Both,-200.0,Gym
+2025-09,,Mobile phone,Both,-120.0,Mobile bills
+2025-09,House Bills,Eating out / ordering,Both,-800.0,Restaurants & delivery
+2025-09,House Bills,Cleaner,Both,-320.0,Monthly cleaning service
+2025-09,House Bills,Therapy,Partner1,-600.0,Therapy session
+2025-09,House Bills,Therapy,Partner2,-560.0,Therapy session
+2025-09,House Bills,Education,Partner1,-400.0,Hebrew course
+2025-09,House Bills,Education,Partner2,-400.0,Hebrew course
+2025-09,House Bills,Commute,Both,-480.0,Transport
+2025-09,House Bills,Other expenses,Both,-360.0,Miscellaneous
+2025-09,House Bills,Water,Both,-120.0,Monthly water bill
+2025-09,House Bills,Electricity,Both,-240.0,Monthly electricity bill
+2025-09,House Bills,Arnona / house fees,Both,-400.0,Municipal tax
+2025-09,House Bills,Building Fee,Both,-160.0,Maintenance fee
+2025-09,House Bills,Internet,Both,-140.0,Monthly internet bill
+2025-09,House Bills,TV,Both,-150.0,Cable or streaming
+2025-09,House Bills,Netflix,Both,-40.0,Subscription
+2025-09,House Bills,Spotify,Both,-40.0,Subscription
+2025-09,House Bills,Google One,Both,-8.0,Cloud storage
+2025-09,Eating out,Going out / evenings & weekends,Both,-600.0,Weekend restaurants
+2025-09,Commute,Couple car rental,Both,-400.0,Weekend trip rental
+2025-09,Put aside,Savings,Both,2000.0,Money saved this month
+2025-10,Income,Salary,Partner1,12800.0,Salary October
+2025-10,Income,Salary,Partner2,12000.0,Salary October
+2025-10,Income,Others (one time income),Both,1000.0,Refund
+2025-10,Outcome,Rent,Both,-4800.0,Monthly rent
+2025-10,Outcome,12 months avg credit card,Both,-1600.0,Average CC payment
+2025-10,House Bills,Supermarket,Both,-1400.0,Grocery shopping
+2025-10,,Hobbies & sports,Both,-200.0,Gym
+2025-10,,Mobile phone,Both,-120.0,Mobile bills
+2025-10,House Bills,Eating out / ordering,Both,-800.0,Restaurants & delivery
+2025-10,House Bills,Cleaner,Both,-320.0,Monthly cleaning service
+2025-10,House Bills,Therapy,Partner1,-600.0,Therapy session
+2025-10,House Bills,Therapy,Partner2,-560.0,Therapy session
+2025-10,House Bills,Education,Partner1,-400.0,Hebrew course
+2025-10,House Bills,Education,Partner2,-400.0,Hebrew course
+2025-10,House Bills,Commute,Both,-480.0,Transport
+2025-10,House Bills,Other expenses,Both,-360.0,Miscellaneous
+2025-10,House Bills,Water,Both,-120.0,Monthly water bill
+2025-10,House Bills,Electricity,Both,-240.0,Monthly electricity bill
+2025-10,House Bills,Arnona / house fees,Both,-400.0,Municipal tax
+2025-10,House Bills,Building Fee,Both,-160.0,Maintenance fee
+2025-10,House Bills,Internet,Both,-140.0,Monthly internet bill
+2025-10,House Bills,TV,Both,-100.0,Cable or streaming
+2025-10,House Bills,Netflix,Both,-40.0,Subscription
+2025-10,House Bills,Spotify,Both,-40.0,Subscription
+2025-10,House Bills,Google One,Both,-8.0,Cloud storage
+2025-10,Eating out,Going out / evenings & weekends,Both,-600.0,Weekend restaurants
+2025-10,Commute,Couple car rental,Both,-400.0,Weekend trip rental
+2025-10,Put aside,Savings,Both,2000.0,Money saved this month
+2025-11,Income,Salary,Partner1,12800.0,Salary November
+2025-11,Income,Salary,Partner2,12000.0,Salary November
+2025-11,Income,Others (one time income),Both,1000.0,Refund
+2025-11,Outcome,Rent,Both,-4800.0,Monthly rent
+2025-11,Outcome,12 months avg credit card,Both,-1600.0,Average CC payment
+2025-11,House Bills,Supermarket,Both,-1400.0,Grocery shopping
+2025-11,,Hobbies & sports,Both,-200.0,Gym
+2025-11,,Mobile phone,Both,-120.0,Mobile bills
+2025-11,House Bills,Eating out / ordering,Both,-800.0,Restaurants & delivery
+2025-11,House Bills,Cleaner,Both,-320.0,Monthly cleaning service
+2025-11,House Bills,Therapy,Partner1,-600.0,Therapy session
+2025-11,House Bills,Therapy,Partner2,-560.0,Therapy session
+2025-11,House Bills,Education,Partner1,-400.0,Hebrew course
+2025-11,House Bills,Education,Partner2,-400.0,Hebrew course
+2025-11,House Bills,Commute,Both,-480.0,Transport
+2025-11,House Bills,Other expenses,Both,-360.0,Miscellaneous
+2025-11,House Bills,Water,Both,-120.0,Monthly water bill
+2025-11,House Bills,Electricity,Both,-240.0,Monthly electricity bill
+2025-11,House Bills,Arnona / house fees,Both,-400.0,Municipal tax
+2025-11,House Bills,Building Fee,Both,-160.0,Maintenance fee
+2025-11,House Bills,Internet,Both,-140.0,Monthly internet bill
+2025-11,House Bills,TV,Both,-1000.0,Cable or streaming
+2025-11,House Bills,Netflix,Both,-40.0,Subscription
+2025-11,House Bills,Spotify,Both,-40.0,Subscription
+2025-11,House Bills,Google One,Both,-8.0,Cloud storage
+2025-11,Eating out,Going out / evenings & weekends,Both,-600.0,Weekend restaurants
+2025-11,Commute,Couple car rental,Both,-400.0,Weekend trip rental
+2025-11,Put aside,Savings,Both,2000.0,Money saved this month
+2025-12,Income,Salary,Partner1,12800.0,Salary December
+2025-12,Income,Salary,Partner2,12000.0,Salary December
+2025-12,Income,Others (one time income),Both,1000.0,Refund
+2025-12,Outcome,Rent,Both,-4800.0,Monthly rent
+2025-12,Outcome,12 months avg credit card,Both,-1600.0,Average CC payment
+2025-12,House Bills,Supermarket,Both,-1400.0,Grocery shopping
+2025-12,,Hobbies & sports,Both,-200.0,Gym
+2025-12,,Mobile phone,Both,-120.0,Mobile bills
+2025-12,House Bills,Eating out / ordering,Both,-800.0,Restaurants & delivery
+2025-12,House Bills,Cleaner,Both,-320.0,Monthly cleaning service
+2025-12,House Bills,Therapy,Partner1,-600.0,Therapy session
+2025-12,House Bills,Therapy,Partner2,-560.0,Therapy session
+2025-12,House Bills,Education,Partner1,-400.0,Hebrew course
+2025-12,House Bills,Education,Partner2,-400.0,Hebrew course
+2025-12,House Bills,Commute,Both,-480.0,Transport
+2025-12,House Bills,Other expenses,Both,-360.0,Miscellaneous
+2025-12,House Bills,Water,Both,-120.0,Monthly water bill
+2025-12,House Bills,Electricity,Both,-240.0,Monthly electricity bill
+2025-12,House Bills,Arnona / house fees,Both,-400.0,Municipal tax
+2025-12,House Bills,Building Fee,Both,-160.0,Maintenance fee
+2025-12,House Bills,Internet,Both,-140.0,Monthly internet bill
+2025-12,House Bills,TV,Both,-100.0,Cable or streaming
+2025-12,House Bills,Netflix,Both,-0.0,Subscription
+2025-12,House Bills,Spotify,Both,-40.0,Subscription
+2025-12,House Bills,Google One,Both,-8.0,Cloud storage
+2025-12,Eating out,Going out / evenings & weekends,Both,-600.0,Weekend restaurants
+2025-12,Commute,Couple car rental,Both,-400.0,Weekend trip rental
+2025-12,Put aside,Savings,Both,2000.0,Money saved this month
